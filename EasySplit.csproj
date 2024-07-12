@@ -21,4 +21,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ES.UseCases\" />
+    <Folder Include="ES.Infra\" />
+  </ItemGroup>
+
 </Project>
