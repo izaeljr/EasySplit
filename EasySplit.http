@@ -1,0 +1,6 @@
+@EasySplit_HostAddress = http://localhost:5240
+
+GET {{EasySplit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
